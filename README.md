@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This repository contains a Jupyter Notebook file (pdf_text_analysis.ipynb) that demonstrates how to extract text from a PDF file, split it into manageable chunks, convert the chunks into numerical vectors using OpenAI GPT-3 embeddings, and perform question-answering tasks on the PDF content.
+This repository contains a  Notebook file (pdf_text_analysis.ipynb) that demonstrates how to extract text from a PDF file, split it into manageable chunks, convert the chunks into numerical vectors using OpenAI GPT-3 embeddings, and perform question-answering tasks on the PDF content.
 
 ## Prerequisites 
 
 Before running the notebook, ensure you have the following:
 
-* Access to Google Colab or a local Jupyter Notebook environment
+* Access to Google Colab or a local  Notebook environment
 * An API key from OpenAI for using GPT-3
 * Necessary libraries installed (e.g., PyPDF2, langchain)
 
@@ -21,7 +21,7 @@ Before running the notebook, ensure you have the following:
 
 ### Running the Notebook
 
-* Open the Jupyter Notebook (pdf_text_analysis.ipynb) in Google Colab or a local environment.
+* Open the Notebook (pdf_text_analysis.ipynb) in Google Colab or a local environment.
 * Execute each code cell sequentially by pressing Shift + Enter.
 
 ### Interacting with the Notebook 
